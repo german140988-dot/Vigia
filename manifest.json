@@ -1,0 +1,25 @@
+{
+  "short_name": "VIGiCASA",
+  "name": "VIGiCASA - Monitoreo de Cámaras",
+  "description": "Sistema de monitoreo de cámaras IP con detección de movimiento y reconocimiento de personas por IA",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#07090d",
+  "background_color": "#07090d",
+  "scope": "/"
+}
